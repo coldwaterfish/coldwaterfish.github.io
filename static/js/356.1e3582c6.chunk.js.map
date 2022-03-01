@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/356.1e3582c6.chunk.js","mappings":"qIAQA,UAJmB,SAACA,GAClB,OAAO","sources":["pages/main/react/basic/index.tsx"],"sourcesContent":["import React from \"react\";\r\n\r\ntype Props = {};\r\n\r\nconst ReactBasic = (props: Props) => {\r\n  return <div>ReactBasic</div>;\r\n};\r\n\r\nexport default ReactBasic;\r\n"],"names":["props"],"sourceRoot":""}

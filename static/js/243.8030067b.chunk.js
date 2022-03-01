@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkcoldfish=self.webpackChunkcoldfish||[]).push([[243],{4243:function(e,s,c){c.r(s);var i=c(2791),n=c(184),u=function(e){return(0,n.jsx)("div",{children:"Register"})};s.default=i.memo(u)}}]);
+//# sourceMappingURL=243.8030067b.chunk.js.map
