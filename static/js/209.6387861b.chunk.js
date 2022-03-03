@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkcoldfish=self.webpackChunkcoldfish||[]).push([[209],{3209:function(e,c,i){i.r(c);var s=i(2791),u=i(184),n=function(e){return(0,u.jsx)("div",{children:"VueDirectives"})};c.default=(0,s.memo)(n)}}]);
-//# sourceMappingURL=209.6387861b.chunk.js.map

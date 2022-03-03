@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkcoldfish=self.webpackChunkcoldfish||[]).push([[788],{8788:function(c,e,s){s.r(e);s(2791);var n=s(184);e.default=function(c){return(0,n.jsx)("div",{children:"ReactHooks"})}}}]);
-//# sourceMappingURL=788.e3f0942c.chunk.js.map
