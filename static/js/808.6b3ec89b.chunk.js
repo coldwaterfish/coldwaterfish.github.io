@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkcoldfish=self.webpackChunkcoldfish||[]).push([[808],{97808:function(n,u,e){e.r(u),e.d(u,{default:function(){return f}});var c=e(36459),t=(e(72791),e(80184));function f(n){return(0,c.Z)(n),(0,t.jsx)("div",{children:"PageNotFound"})}}}]);
-//# sourceMappingURL=808.6b3ec89b.chunk.js.map
