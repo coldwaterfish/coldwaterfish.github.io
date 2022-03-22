@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcoldfish=self.webpackChunkcoldfish||[]).push([[531],{65531:function(e,s,c){c.r(s);var i=c(47313),n=c(46417),u=function(e){return(0,n.jsx)("div",{children:"Register"})};s.default=i.memo(u)}}]);
