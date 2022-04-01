@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcoldfish=self.webpackChunkcoldfish||[]).push([[529],{43529:function(n,u,e){e.r(u),e.d(u,{default:function(){return t}});var c=e(46417);function t(){return(0,c.jsx)("div",{children:"PageNotFound"})}}}]);
